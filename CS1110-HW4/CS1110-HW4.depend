@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384996925 source:c:\temp\beginning_programming-cpp\cs1110-hw4\main.cpp
+	<iostream>
+	<iomanip>
+

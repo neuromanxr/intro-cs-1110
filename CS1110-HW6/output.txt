@@ -1,0 +1,45 @@
+Printing first array:
+
+10  12  65  23  45
+87  53  12  21  35
+48  78
+
+Printing second array:
+
+20  23  12  44  33
+12  56  48  36  11
+8  35
+
+The average of the first array:
+
+40.75
+
+The average of the second array:
+
+28.1667
+
+Second array added to the first array:
+10  12  65  23  45
+87  53  12  21  35
+48  78  20  23  12
+44  33  12  56  48
+36  11  8  35
+
+First array added to the second array:
+20  23  12  44  33
+12  56  48  36  11
+8  35  10  12  65
+23  45  87  53  12
+21  35  48  78
+
+The average of the new first array:
+
+34.4583
+
+The average of the new second array:
+
+34.4583
+
+
+Process returned 0 (0x0)   execution time : 0.296 s
+Press any key to continue.
